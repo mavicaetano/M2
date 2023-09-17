@@ -13,7 +13,7 @@ public class ExercicioQuatro {
         if (number == randomNumber) {
             System.out.println("Parabéns! Você acertou!");
         } else {
-            System.out.println("Ops! Número errado :(");
+            System.out.printf("Ops! Número errado :( O número correto era %d.", randomNumber);
         }
     }
 }
