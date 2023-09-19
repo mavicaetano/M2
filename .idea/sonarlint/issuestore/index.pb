@@ -1,0 +1,15 @@
+
+9
+	README.md,8\e\8ec9a00bfd09b3190ac6b22251dbb1aa95a0579d
+J
+m2s01/ExercicioQuatro.java,f\3\f3613a591953b8dad56a1e0fae1d01eb8ff80a8d
+F
+m2s01/ExercicioUm.java,c\7\c7a70b758e9d678187cf88961cf99858ad18e803
+H
+m2s01/ExercicioDois.java,6\7\67f3d76e24cd72cd63cae95eec57ec1f1817f024
+H
+m2s01/ExercicioTres.java,a\4\a4a42a05225267d7cb7698bbbb6dabc77c3803bc
+I
+m2s01/ExercicioCinco.java,f\0\f09e0c1942a74c1a7bebdda308c78dec693abce3
+H
+m2s01/ExercicioSeis.java,d\e\de1798501d701ed77c3ca0cfc71c4ec30213013c
