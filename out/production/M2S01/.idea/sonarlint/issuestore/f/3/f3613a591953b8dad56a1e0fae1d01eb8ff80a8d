@@ -1,7 +1,7 @@
 
-{	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(²“‚ƒıÿÿÿÿ8®¶õ«ª1
-G	java:S106	"+Replace this use of System.out by a logger.(–«Î8»¶õ«ª1
+{	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(²“‚ƒıÿÿÿÿ8Ïîœ¬1
+G	java:S106	"+Replace this use of System.out by a logger.(–«Î8©Ïîœ¬1
 F
-java:S2140")Use "java.util.Random.nextInt()" instead.(¸…ã8£ôõ«ª1
-G	java:S106"+Replace this use of System.out by a logger.(ß†Óì8İ’ú«ª1
-G	java:S106"+Replace this use of System.out by a logger.(ˆ­üâ8¨û«ª1
+java:S2140")Use "java.util.Random.nextInt()" instead.(¸…ã8©Ïîœ¬1
+G	java:S106"+Replace this use of System.out by a logger.(ˆ­üâ8ªÏîœ¬1
+G	java:S106"+Replace this use of System.out by a logger.(ß†Óì8ªÏîœ¬1

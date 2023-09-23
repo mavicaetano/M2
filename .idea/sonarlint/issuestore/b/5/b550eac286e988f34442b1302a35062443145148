@@ -1,0 +1,6 @@
+
+{	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(²“‚ƒıÿÿÿÿ8 ş¬1
+d
+java:S1854"BRemove this useless assignment to local variable "wageDifference".(œ¡ëîûÿÿÿÿ8ª ş¬1
+G	java:S106	"+Replace this use of System.out by a logger.(ôŞ8® ş¬1
+G	java:S106!"+Replace this use of System.out by a logger.(¢ºüß8¯ ş¬1

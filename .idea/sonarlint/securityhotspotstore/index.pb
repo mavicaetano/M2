@@ -17,3 +17,5 @@ H
 m2s01/ExercicioSete.java,7\7\7754fc60300c51fcb18e24d204603a02b19b9746
 H
 m2s01/ExercicioOito.java,a\5\a59ae553c25d7682463fe022f50fc278259312ae
+H
+m2s01/ExercicioNove.java,b\5\b550eac286e988f34442b1302a35062443145148
