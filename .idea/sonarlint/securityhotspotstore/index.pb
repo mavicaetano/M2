@@ -13,3 +13,7 @@ I
 m2s01/ExercicioCinco.java,f\0\f09e0c1942a74c1a7bebdda308c78dec693abce3
 H
 m2s01/ExercicioSeis.java,d\e\de1798501d701ed77c3ca0cfc71c4ec30213013c
+H
+m2s01/ExercicioSete.java,7\7\7754fc60300c51fcb18e24d204603a02b19b9746
+H
+m2s01/ExercicioOito.java,a\5\a59ae553c25d7682463fe022f50fc278259312ae
