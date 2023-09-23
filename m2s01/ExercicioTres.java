@@ -14,6 +14,5 @@ public class ExercicioTres {
             return;
         }
             System.out.println("É ímpar!");
-        }
     }
 }
