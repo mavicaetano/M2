@@ -1,4 +1,4 @@
-package m2s02.exercicioum;
+package m2s02.exercicio1;
 
 public class Date {
 
