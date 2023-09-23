@@ -11,7 +11,8 @@ public class ExercicioTres {
 
         if (number % 2 == 0) {
             System.out.println("É par!");
-        } else {
+            return;
+        }
             System.out.println("É ímpar!");
         }
     }
