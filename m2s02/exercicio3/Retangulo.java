@@ -9,7 +9,7 @@ public class Retangulo {
     }
 
     public void setLenght(double lenght) {
-        if (this.lenght > 0 && this.lenght < 20) {
+        if (lenght > 0 && lenght < 20) {
             this.lenght = lenght;
         } else {
             System.out.println("Erro: insira um valor entre 0 e 20!");
@@ -21,7 +21,7 @@ public class Retangulo {
     }
 
     public void setWidth(double width) {
-        if (this.width > 0 && this.width < 20) {
+        if (width > 0 && width < 20) {
             this.width = width;
         } else {
             System.out.println("Erro: insira um valor entre 0 e 20!");
