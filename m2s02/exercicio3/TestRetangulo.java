@@ -2,7 +2,7 @@ package m2s02.exercicio3;
 
 import java.util.Scanner;
 
-public class testRetangulo {
+public class TestRetangulo {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
 
