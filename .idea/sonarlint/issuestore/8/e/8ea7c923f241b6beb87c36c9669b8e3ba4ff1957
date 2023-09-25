@@ -1,0 +1,8 @@
+
+n	java:S101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(ŠİÊ²ûÿÿÿÿ8œ£¬1
+{	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(¦„Çüÿÿÿÿ8£¬1
+T
+java:S1854"7Remove this useless assignment to local variable "cpf".(ıÃÌÊ8 £¬1
+G	java:S106	"+Replace this use of System.out by a logger.(¶ÚŠÂ8¤£¬1
+E
+java:S1481"(Remove this unused "cpf" local variable.(ıÃÌÊ8¥£¬1

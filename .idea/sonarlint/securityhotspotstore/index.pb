@@ -19,3 +19,15 @@ H
 m2s01/ExercicioOito.java,a\5\a59ae553c25d7682463fe022f50fc278259312ae
 H
 m2s01/ExercicioNove.java,b\5\b550eac286e988f34442b1302a35062443145148
+J
+m2s02/exercicio1/Date.java,0\4\049d934ca57e1901a31bf232e5d49e27e6763a13
+N
+m2s02/exercicio1/testDate.java,5\e\5e0c0b0748aaada580ad34eb73b035eab569c11f
+M
+m2s02/exercicio2/TestCPF.java,8\e\8ea7c923f241b6beb87c36c9669b8e3ba4ff1957
+R
+"m2s02/exercicio2/PessoaFisica.java,7\b\7b529ffb1f2735ca377c20a5fa3f16af837c4eb1
+O
+m2s02/exercicio3/Retangulo.java,d\d\ddeb888be1eebbb3b56ec10b62a9acbcca6ecf21
+S
+#m2s02/exercicio3/TestRetangulo.java,f\5\f56b4d9ed248931eeaf3d9d6c756f2037b34742b
