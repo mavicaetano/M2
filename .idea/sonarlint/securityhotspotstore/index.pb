@@ -31,3 +31,11 @@ O
 m2s02/exercicio3/Retangulo.java,d\d\ddeb888be1eebbb3b56ec10b62a9acbcca6ecf21
 S
 #m2s02/exercicio3/TestRetangulo.java,f\5\f56b4d9ed248931eeaf3d9d6c756f2037b34742b
+P
+ m2s02/exercicio4/TestFatura.java,7\c\7caf7e1d67c3a790433d0fb705cd1827845a1fbd
+L
+m2s02/exercicio4/Fatura.java,2\b\2b3c664428597c06e7652abe07528b3cbfb9b1a6
+X
+(m2s02/exercicio5/FrequenciaCardiaca.java,f\8\f8eeb20872592924709a2f8552ea9d36f6ae1b37
+\
+,m2s02/exercicio5/TestFrequenciaCardiaca.java,5\2\5285b0163b400fcd846f514eeb6a02f6f339bbe2

@@ -7,10 +7,6 @@ public class Fatura {
     private int quantity;
     private double priceForItem;
 
-    public String getNumber() {
-        return number;
-    }
-
     public Fatura (String number, String description, int quantity, double priceForItem) {
         this.number = number;
         this.description = description;
@@ -24,6 +20,10 @@ public class Fatura {
         } else {
             this.priceForItem = 0.0;
         }
+    }
+
+    public String getNumber() {
+        return number;
     }
 
     public void setNumber(String number) {
