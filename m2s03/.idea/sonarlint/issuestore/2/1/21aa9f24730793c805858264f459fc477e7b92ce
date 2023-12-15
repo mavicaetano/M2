@@ -1,0 +1,10 @@
+
+n
+java:S1104"XMake nomeCompleto a static final constant or non-public and provide accessors if needed.(ºëòé
+n	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(–ç÷ 
+…
+java:S4165 "jRemove this useless assignment; "nomeCompleto" already holds the assigned value along all execution paths.(×š¤Åÿÿÿÿÿ
+N
+java:S1172"3Remove this unused method parameter "nomaCompleto".(é»ÊÂûÿÿÿÿ
+J
+java:S1656 "/Remove or correct this useless self-assignment.(×š¤Åÿÿÿÿÿ
