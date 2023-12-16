@@ -17,3 +17,9 @@ I
 exercicio4/Contador2.java,3\8\38dfc0c2f214fa011349d5645e854635b74dff90
 F
 exercicio4/Teste2.java,5\9\59dfbae34aeeb522778ab270cd4b6c7750701feb
+H
+exercicio5/Concurso.java,7\b\7b834ff46a714698bef5a05dcff202d24a7768d0
+I
+exercicio5/Principal.java,4\b\4b69d2f3413c62f140ec110d0b9861d2a6472ce3
+G
+exercicio5/megasena.txt,f\5\f5117f6cf2ee3bd55d88500059b3b0ff07cb046b

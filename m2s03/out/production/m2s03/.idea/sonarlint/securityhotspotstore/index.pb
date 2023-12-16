@@ -13,3 +13,11 @@ H
 exercicio3/Contador.java,e\7\e759d8e6278122793740a528c95295e6a208dbe8
 E
 exercicio3/Teste.java,f\3\f3745d46e0a0aee30125bb563b1bfec992f8c199
+I
+exercicio4/Contador2.java,3\8\38dfc0c2f214fa011349d5645e854635b74dff90
+F
+exercicio4/Teste2.java,5\9\59dfbae34aeeb522778ab270cd4b6c7750701feb
+H
+exercicio5/Concurso.java,7\b\7b834ff46a714698bef5a05dcff202d24a7768d0
+I
+exercicio5/Principal.java,4\b\4b69d2f3413c62f140ec110d0b9861d2a6472ce3
