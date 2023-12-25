@@ -23,3 +23,7 @@ k
 ;src/main/java/caetano/maria/veiculos/model/TipoVeiculo.java,e\3\e3690ccb5257b52bd85cf415f15dc3e58b0a827b
 e
 5src/main/java/caetano/maria/veiculos/model/Multa.java,b\0\b0c92837861be3b055e024bde059c0aa86c4e889
+v
+Fsrc/main/java/caetano/maria/veiculos/repository/VeiculoRepository.java,c\9\c950121934f568b1ef1605c0b8c20f58c36a119a
+t
+Dsrc/main/java/caetano/maria/veiculos/repository/MultaRepository.java,f\e\fec3616e9b25dbd253aaa83ce32416a403f93eaa
