@@ -25,6 +25,16 @@ public class Veiculo {
     @OneToMany(fetch = FetchType.LAZY, mappedBy = "veiculo")
     private List<Multa> multas;
 
+    public Veiculo () { }
+
+    public Veiculo(String placa, TipoVeiculo tipoVeiculo, String nome, Integer anoFabricacao, String cor) {
+        this.placa = placa;
+        this.tipoVeiculo = tipoVeiculo;
+        this.nome = nome;
+        this.anoFabricacao = anoFabricacao;
+        this.cor = cor;
+    }
+
     public String getPlaca() {
         return placa;
     }

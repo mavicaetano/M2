@@ -27,3 +27,5 @@ v
 Fsrc/main/java/caetano/maria/veiculos/repository/VeiculoRepository.java,c\9\c950121934f568b1ef1605c0b8c20f58c36a119a
 t
 Dsrc/main/java/caetano/maria/veiculos/repository/MultaRepository.java,f\e\fec3616e9b25dbd253aaa83ce32416a403f93eaa
+m
+=src/main/java/caetano/maria/veiculos/VeiculosApplication.java,0\3\03184eebab9a85e0d3cc0a14f66dcc191b4eead6
