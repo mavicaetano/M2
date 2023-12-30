@@ -36,6 +36,10 @@ public class VeiculosApplication {
 			multaRepository.save(multa1);
 			multaRepository.save(multa2);
 			multaRepository.save(multa3);
+
+			multa3.setValor(380F);
+			multaRepository.save(multa3);
+
 		};
 	}
 
