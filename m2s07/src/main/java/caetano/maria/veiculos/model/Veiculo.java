@@ -83,4 +83,16 @@ public class Veiculo {
     public void setMultas(java.util.List<Multa> multas) {
         this.multas = multas;
     }
+
+    @Override
+    public String toString() {
+        return "Veiculo{ \n" +
+                " placa='" + placa + '\'' +
+                ",\n enumTipoVeiculo=" + enumTipoVeiculo +
+                ",\n nome='" + nome + '\'' +
+                ",\n anoFabricacao=" + anoFabricacao +
+                ",\n cor='" + cor + '\'' +
+                ",\n multas=" + multas +
+                '}';
+    }
 }

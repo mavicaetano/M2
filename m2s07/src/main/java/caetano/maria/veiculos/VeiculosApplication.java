@@ -10,6 +10,8 @@ import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 import org.springframework.context.annotation.Bean;
 
+import java.util.List;
+
 @SpringBootApplication
 public class VeiculosApplication {
 
@@ -40,6 +42,8 @@ public class VeiculosApplication {
 			multa3.setValor(380F);
 			multaRepository.save(multa3);
 
+			List<Veiculo> veiculos = veiculoRepository.findAllJoinMultas();
+			System.out.println(veiculos);
 		};
 	}
 

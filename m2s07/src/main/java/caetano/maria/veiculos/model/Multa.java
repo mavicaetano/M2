@@ -74,4 +74,14 @@ public class Multa {
     public void setVeiculo(Veiculo veiculo) {
         this.veiculo = veiculo;
     }
+
+    @Override
+    public String toString() {
+        return "Multa{ \n" +
+                " id=" + id +
+                ",\n local='" + local + '\'' +
+                ",\n motivo='" + motivo + '\'' +
+                ",\n valor=" + valor +
+                '}';
+    }
 }
