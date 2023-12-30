@@ -5,7 +5,8 @@ import jakarta.persistence.FetchType;
 import jakarta.persistence.Id;
 import jakarta.persistence.OneToMany;
 import jakarta.persistence.Table;
-import org.hibernate.mapping.List;
+
+import java.util.List;
 
 @Entity
 @Table(name = "VEICULOS")
@@ -14,7 +15,7 @@ public class Veiculo {
     @Id
     private String placa;
 
-    private TipoVeiculo tipoVeiculo;
+    private EnumTipoVeiculo enumTipoVeiculo;
 
     private String nome;
 
@@ -27,9 +28,9 @@ public class Veiculo {
 
     public Veiculo () { }
 
-    public Veiculo(String placa, TipoVeiculo tipoVeiculo, String nome, Integer anoFabricacao, String cor) {
+    public Veiculo(String placa, EnumTipoVeiculo enumTipoVeiculo, String nome, Integer anoFabricacao, String cor) {
         this.placa = placa;
-        this.tipoVeiculo = tipoVeiculo;
+        this.enumTipoVeiculo = enumTipoVeiculo;
         this.nome = nome;
         this.anoFabricacao = anoFabricacao;
         this.cor = cor;
@@ -43,12 +44,12 @@ public class Veiculo {
         this.placa = placa;
     }
 
-    public TipoVeiculo getTipoVeiculo() {
-        return tipoVeiculo;
+    public EnumTipoVeiculo getTipoVeiculo() {
+        return enumTipoVeiculo;
     }
 
-    public void setTipoVeiculo(TipoVeiculo tipoVeiculo) {
-        this.tipoVeiculo = tipoVeiculo;
+    public void setTipoVeiculo(EnumTipoVeiculo enumTipoVeiculo) {
+        this.enumTipoVeiculo = enumTipoVeiculo;
     }
 
     public String getNome() {
@@ -75,11 +76,11 @@ public class Veiculo {
         this.cor = cor;
     }
 
-    public List<Multa> getMultas() {
+    public java.util.List<Multa> getMultas() {
         return multas;
     }
 
-    public void setMultas(List<Multa> multas) {
+    public void setMultas(java.util.List<Multa> multas) {
         this.multas = multas;
     }
 }

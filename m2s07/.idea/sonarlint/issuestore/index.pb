@@ -1,26 +1,8 @@
 
-b
-2veiculos/src/main/resources/application.properties,9\4\94f39a7ba0692d5fc29da5ae66d1ca59d3fbe07b
-v
-Fveiculos/src/main/java/caetano/maria/veiculos/VeiculosApplication.java,8\2\82e3cba0ec0f24a55616ae5a5260c0fc5d6bc3d9
-{
-Kveiculos/src/test/java/caetano/maria/veiculos/VeiculosApplicationTests.java,2\3\23b45799f6c7f6f0cbb96f06387e5eb69147c4cd
 9
 	Main.java,6\9\69cdb079609ed3ce1e356d44cff508330a5787c4
 g
-7veiculos/src/main/java/caetano/maria/veiculos/Main.java,3\f\3f3ce6c5f9d668e2b291b58e204563c7cd27e754
-x
-Hveiculos/src/main/java/caetano/maria/veiculos/SpringBootApplication.java,5\f\5f4b2780247579de37d7f7499afda7bf98ca404d
-@
-veiculos/pom.xml,5\2\52ae8f0912a00077557497d58eafc820df0b472c
-B
-veiculos/Main.java,e\8\e81c6fdb09f808be3896103dfdc013f5016c9389
-p
-@veiculos/src/main/java/caetano/maria/veiculos/model/Veiculo.java,2\3\23581be011aa29a07994b1333df81b97b39f2866
-g
 7src/main/java/caetano/maria/veiculos/model/Veiculo.java,b\3\b31e78171ec6d9954b2af8807f000f10bb7a5e22
-k
-;src/main/java/caetano/maria/veiculos/model/TipoVeiculo.java,e\3\e3690ccb5257b52bd85cf415f15dc3e58b0a827b
 e
 5src/main/java/caetano/maria/veiculos/model/Multa.java,b\0\b0c92837861be3b055e024bde059c0aa86c4e889
 v
@@ -29,3 +11,7 @@ t
 Dsrc/main/java/caetano/maria/veiculos/repository/MultaRepository.java,f\e\fec3616e9b25dbd253aaa83ce32416a403f93eaa
 m
 =src/main/java/caetano/maria/veiculos/VeiculosApplication.java,0\3\03184eebab9a85e0d3cc0a14f66dcc191b4eead6
+o
+?src/main/java/caetano/maria/veiculos/model/EnumTipoVeiculo.java,5\2\525c99aa90d26480a2694c1ac8e7b4cf4a9b0114
+7
+pom.xml,4\4\442292b8a7efeabbe4cc176709b833b1792140ec

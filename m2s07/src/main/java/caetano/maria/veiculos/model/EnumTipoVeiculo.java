@@ -1,6 +1,6 @@
 package caetano.maria.veiculos.model;
 
-public enum TipoVeiculo {
+public enum EnumTipoVeiculo {
 
     AUTOMOVEL,
     CAMIONETA,
